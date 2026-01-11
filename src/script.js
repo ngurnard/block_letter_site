@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Enjoy Hawaii friends!',
+            'Happy Birthday Ankit!',
             {
                 font: font,
                 size: 0.4,
